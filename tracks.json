@@ -1,0 +1,233 @@
+[
+  {
+    "name": "UnhappyRefrain",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_unhappyrefrain_u/unhappyrefrain/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f_motions_unhappyrefrain_u/unhappyrefrain/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/0e712fa0ce58c04b64aa9d99c8b3fb840dfdb88c.mp3"
+  },
+  {
+    "name": "UnhappyRefrain - mmd_UnhappyRefrain_KAI",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_unhappyrefrain_u/unhappyrefrain_mmd_unh/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f_motions_unhappyrefrain_u/unhappyrefrain/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/0e712fa0ce58c04b64aa9d99c8b3fb840dfdb88c.mp3"
+  },
+  {
+    "name": "UnhappyRefrain - mmd_UnhappyRefrain_LEN",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_unhappyrefrain_u/unhappyrefrain_mmd_unh/main_2.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f_motions_unhappyrefrain_u/unhappyrefrain/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/0e712fa0ce58c04b64aa9d99c8b3fb840dfdb88c.mp3"
+  },
+  {
+    "name": "WorldsEndDanceHallPVedition",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_worldsenddanceha/worldsenddancehallpved/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/5fbc6336e668a976e59359baff47fb9ad157aa48.mp3"
+  },
+  {
+    "name": "WorldsEndDanceHallPVedition - mmd_WorldsEndDancehall_LUK",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f_motions_worldsenddanceha/worldsenddancehallpved/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/5fbc6336e668a976e59359baff47fb9ad157aa48.mp3"
+  },
+  {
+    "name": "Ai Kotoba",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_ai_kotoba_ai_/ai_kotoba/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/b9ca0e98607836e72337dda1b273d661516bd358.mp3"
+  },
+  {
+    "name": "カンタレラ ～grace edition～",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_cantarella_gr/_grace_edition_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/d0fb326a95a643ef9086c9125041af0837afc62c.mp3"
+  },
+  {
+    "name": "カンタレラ ～grace edition～ - mmd_Cantarella_MIK",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_cantarella_gr/_grace_edition_mmd_can/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/d0fb326a95a643ef9086c9125041af0837afc62c.mp3"
+  },
+  {
+    "name": "ColorfulxMelody",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_colorfulxmelo/colorfulxmelody/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/508e408fe5447514818b8f8e1bb892b261634263.mp3"
+  },
+  {
+    "name": "ColorfulxMelody - mmd_カラフル×メロディ_RIN",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_colorfulxmelo/colorfulxmelody_mmd_ri/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/508e408fe5447514818b8f8e1bb892b261634263.mp3"
+  },
+  {
+    "name": "Double Lariat",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_double_lariat/double_lariat/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/d16f248f86a8d63bed1f74f5bcd6b6030ecdd05f.mp3"
+  },
+  {
+    "name": "Electric Angel 2022 REMAKE",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_electric_ange/electric_angel_2022_re/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f2nd_motions_electric_ange/electric_angel_2022_re/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/6db7ac8c7530f7c36cbf077cfc1d885d985393a2.mp3"
+  },
+  {
+    "name": "Erase or Zero",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_erase_or_zero/erase_or_zero/main.vmd",
+    "audioPlayerFile": "giants/game_mmd_diva_f2nd_motions_erase_or_zero/erase_or_zero/audio.wav"
+  },
+  {
+    "name": "Erase or Zero - mmd_eraseorzero_len_motion",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_erase_or_zero/erase_or_zero_mmd_eras/main.vmd",
+    "audioPlayerFile": "giants/game_mmd_diva_f2nd_motions_erase_or_zero/erase_or_zero/audio.wav"
+  },
+  {
+    "name": "EraseOrZero2020REMAKE",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_eraseorzero20/eraseorzero2020remake/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f2nd_motions_eraseorzero20/eraseorzero2020remake/camera.vmd",
+    "audioPlayerFile": "giants/game_mmd_diva_f2nd_motions_erase_or_zero/erase_or_zero/audio.wav"
+  },
+  {
+    "name": "EraseOrZero2020REMAKE - mmd_EraseOrZero_LEN",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_eraseorzero20/eraseorzero2020remake_/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f2nd_motions_eraseorzero20/eraseorzero2020remake/camera.vmd",
+    "audioPlayerFile": "giants/game_mmd_diva_f2nd_motions_erase_or_zero/erase_or_zero/audio.wav"
+  },
+  {
+    "name": "Knife",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_knife_knife/knife/main.vmd",
+    "audioPlayerFile": "giants/game_mmd_diva_f2nd_motions_knife_knife/knife/audio.wav"
+  },
+  {
+    "name": "Knife - mmd_Knife_MIKU",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_knife_knife/knife_mmd_knife_miku/main.vmd",
+    "audioPlayerFile": "giants/game_mmd_diva_f2nd_motions_knife_knife/knife/audio.wav"
+  },
+  {
+    "name": "Knife - mmd_Knife_LEN",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_knife_knife/knife_mmd_knife_len/main.vmd",
+    "audioPlayerFile": "giants/game_mmd_diva_f2nd_motions_knife_knife/knife/audio.wav"
+  },
+  {
+    "name": "Knife2020REMAKE",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_knife2020rema/knife2020remake/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f2nd_motions_knife2020rema/knife2020remake/camera.vmd",
+    "audioPlayerFile": "giants/game_mmd_diva_f2nd_motions_knife_knife/knife/audio.wav"
+  },
+  {
+    "name": "Knife2020REMAKE - mmd_Knife_MIK",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_knife2020rema/knife2020remake_mmd_kn/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f2nd_motions_knife2020rema/knife2020remake/camera.vmd",
+    "audioPlayerFile": "giants/game_mmd_diva_f2nd_motions_knife_knife/knife/audio.wav"
+  },
+  {
+    "name": "Knife2020REMAKE - mmd_Knife_LEN",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_knife2020rema/knife2020remake_mmd_kn/main_2.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f2nd_motions_knife2020rema/knife2020remake/camera.vmd",
+    "audioPlayerFile": "giants/game_mmd_diva_f2nd_motions_knife_knife/knife/audio.wav"
+  },
+  {
+    "name": "Luka Luka★Night Fever",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_luka_luka_nig/luka_luka_night_fever/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f2nd_motions_luka_luka_nig/luka_luka_night_fever/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/08ba2ba6b74c0087f3b582acc34a82f2d3c1d6bd.mp3"
+  },
+  {
+    "name": "Meteor",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_meteor_meteor/meteor/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/27830f65a80865bc7af99caeca35bcc7c3c1c058.mp3"
+  },
+  {
+    "name": "結ンデ開イテ羅刹ト骸",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_musunde_hirai/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/ca339c66708e934c9382bbbcb29a7ac11f797700.mp3"
+  },
+  {
+    "name": "Promise",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_promise_promi/promise/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/2499748f220660dab402e937c0bb9aaad66c14ec.mp3"
+  },
+  {
+    "name": "Promise - mmd_promise_motion_miku",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_promise_promi/promise_mmd_promise_mo/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/2499748f220660dab402e937c0bb9aaad66c14ec.mp3"
+  },
+  {
+    "name": "RomeoAndCinderella",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_romeoandcinde/romeoandcinderella/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f2nd_motions_romeoandcinde/romeoandcinderella/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/6bc7ce8e24df95341b8dbde93bd81c6edb7d26db.mp3"
+  },
+  {
+    "name": "SPiCa",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_spica_spica/spica/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/88955d1ffccad130ce3e08a5093b88d31b014a11.mp3"
+  },
+  {
+    "name": "スキキライ",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_suki_kirai/_/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f2nd_motions_suki_kirai/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/dfff7c3bbb681d8b363457653dd71f9b8aee4d7d.mp3"
+  },
+  {
+    "name": "スキキライ - mmd_スキキライ_LEN",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_suki_kirai/_mmd_len/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f2nd_motions_suki_kirai/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/dfff7c3bbb681d8b363457653dd71f9b8aee4d7d.mp3"
+  },
+  {
+    "name": "TellYourWorld",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_tellyourworld/tellyourworld/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_f2nd_motions_tellyourworld/tellyourworld/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/1827ecdb8997dea24bb2664fa8590e03b09356cd.mp3"
+  },
+  {
+    "name": "TsugaiKogarashi",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_tsugaikogaras/tsugaikogarashi/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/3c81c4c38fe1898c97058713dcf23ea46ec9bb7b.mp3"
+  },
+  {
+    "name": "TsugaiKogarashi - mmd_番凩_MEI",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_f2nd_motions_tsugaikogaras/tsugaikogarashi_mmd_me/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/3c81c4c38fe1898c97058713dcf23ea46ec9bb7b.mp3"
+  },
+  {
+    "name": "BrainRevolutionGirl2020REMAKE",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_x_hd_motions_brainrevoluti/brainrevolutiongirl202/main.vmd",
+    "camMotionFile": "giants/game_mmd_diva_x_hd_motions_brainrevoluti/brainrevolutiongirl202/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/fb20d90d3dd6c3b1c923709e7808e9027777fb69.mp3"
+  },
+  {
+    "name": "Patchwork Staccato 2020 REMAKE",
+    "group": "Creators",
+    "modelMotionFile": "giants/game_mmd_diva_x_hd_motions_patchwork_sta/patchwork_staccato_202/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/a25b17f9b62b438a91d8e31126584680695ef4e8.mp3"
+  }
+]
